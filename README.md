@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gaurav Kumar
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on some projects of Data Science
