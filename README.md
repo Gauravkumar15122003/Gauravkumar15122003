@@ -39,3 +39,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravkumar15122003&show_icons=true&locale=en" alt="gauravkumar15122003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravkumar15122003&" alt="gauravkumar15122003" /></p>
+
+![Visitors](https://komarev.com/ghpvc/?username=Gauravkumar15122003&color=blue)
+![Top Language](https://img.shields.io/github/languages/top/Gauravkumar15122003/SQL_LeetCode)
+![Repo Size](https://img.shields.io/github/repo-size/Gauravkumar15122003/SQL_LeetCode)
+![Last Commit](https://img.shields.io/github/last-commit/Gauravkumar15122003/SQL_LeetCode)
